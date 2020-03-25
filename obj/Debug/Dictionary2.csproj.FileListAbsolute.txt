@@ -1,0 +1,15 @@
+D:\laptrinhhdt\Dictionary2\Dictionary2\bin\Debug\Dictionary2.exe.config
+D:\laptrinhhdt\Dictionary2\Dictionary2\bin\Debug\Dictionary2.exe
+D:\laptrinhhdt\Dictionary2\Dictionary2\bin\Debug\Dictionary2.pdb
+D:\laptrinhhdt\Dictionary2\Dictionary2\obj\Debug\Dictionary2.csprojResolveAssemblyReference.cache
+D:\laptrinhhdt\Dictionary2\Dictionary2\obj\Debug\Dictionary2.dictionary.resources
+D:\laptrinhhdt\Dictionary2\Dictionary2\obj\Debug\Dictionary2.Properties.Resources.resources
+D:\laptrinhhdt\Dictionary2\Dictionary2\obj\Debug\Dictionary2.csproj.GenerateResource.Cache
+D:\laptrinhhdt\Dictionary2\Dictionary2\obj\Debug\Dictionary2.exe
+D:\laptrinhhdt\Dictionary2\Dictionary2\obj\Debug\Dictionary2.pdb
+D:\laptrinhhdt\Dictionary2\Dictionary2\obj\Debug\Dictionary2.Search.resources
+D:\laptrinhhdt\Dictionary2\Dictionary2\obj\Debug\Dictionary2.Add.resources
+D:\laptrinhhdt\Dictionary2\Dictionary2\obj\Debug\Dictionary2.Edit.resources
+D:\laptrinhhdt\Dictionary2\Dictionary2\obj\Debug\Dictionary2.Delete.resources
+D:\laptrinhhdt\Dictionary2\Dictionary2\obj\Debug\Dictionary2.Create.resources
+D:\laptrinhhdt\Dictionary2\Dictionary2\obj\Debug\Dictionary2.Welcome.resources
